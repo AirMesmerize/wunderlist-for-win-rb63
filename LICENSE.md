@@ -1,4 +1,4 @@
-
+secure MindManager for Windows Helper | offline-access + task-integration is the best MindManager for Windows helper, featuring offline-access and task-integration. Powerful,
 
 
 
